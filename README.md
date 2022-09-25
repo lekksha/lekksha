@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @lekksha
-- 👀 I’m interested in blockchain, mobile dev and neuroscience
-- 🌱 I’m currently learning how blockchain works and how to make smart contracts
-- 💞️ I’m looking to collaborate on everything you can offer me, if my skills are enough. I would really like collaborate on smth related to neuroscience though
 - 📫 How to reach me :
 -   Telegram: @lekksha
 -   E-mail: lekksha@gmail.com
